@@ -1,0 +1,4 @@
+1.jvm启动参数：例如：-Ddubbo.protocol.port=20885
+2.application.properties，provider.xml
+3.ServiceConfig、ReferenceConfig等编程接口采集的配置
+4.dubbo.properties
