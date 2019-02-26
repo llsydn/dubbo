@@ -33,7 +33,7 @@
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE.jar!/META-INF/spring.factories">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="56" selection-start-column="56" selection-end-column="56" />
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -250,15 +250,16 @@
       <option name="presentableId" value="Default" />
       <updated>1551064939465</updated>
       <workItem from="1551064942011" duration="15597000" />
-      <workItem from="1551140070000" duration="3435000" />
+      <workItem from="1551140070000" duration="3752000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19032000" />
+    <option name="totallyTimeSpent" value="19349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -695,7 +696,7 @@
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE.jar!/META-INF/spring.factories">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="56" selection-start-column="56" selection-end-column="56" />
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
